@@ -1,4 +1,4 @@
-#include <iostream> #NodarChinchaladze
+#include <iostream> //NodarChinchaladze
 using namespace std;
 void swap(int* a, int* b) {
     int temp = *a;
